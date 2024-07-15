@@ -15,5 +15,4 @@ Creator
 2. Firmansyah
 3. Muhammad Ijlal Senja Pratama
 
-Program Studi Teknik Industri Pertanian
-Universitas Linggabuana PGRI Sukabumi
+<p>Program Studi Teknik Industri Pertanian<br>Universitas Linggabuana PGRI Sukabumi</p>
