@@ -1,5 +1,8 @@
 # Lavia-Team
 
+
+![Alt text](https://drive.google.com/file/d/1YR_gJHNkzDbRpKCB_AnwExRvcsQnGXSc/view?usp=sharing)
+
 Download Aplikasi Lafia Detector 
 https://drive.google.com/file/d/1XTaKibZQVaXQsfYLlI8x4MWIeA6F8Spf/view?usp=sharing
 
