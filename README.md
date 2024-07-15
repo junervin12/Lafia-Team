@@ -7,8 +7,7 @@
 </p>
 
 
-Download Aplikasi Lafia Detector 
-https://drive.google.com/file/d/1XTaKibZQVaXQsfYLlI8x4MWIeA6F8Spf/view?usp=sharing
+<p>Download Aplikasi Lafia Detector<br>https://drive.google.com/file/d/1XTaKibZQVaXQsfYLlI8x4MWIeA6F8Spf/view?usp=sharing</p>
 
 Creator
 1. Tresna Ayu Safitri
