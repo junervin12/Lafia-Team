@@ -1,7 +1,11 @@
 # Lavia-Team
 
 
-![Alt text](home.jpg)
+<p>
+    <img src="home.jpg" >
+    <img src="home.jpg" >
+</p>
+
 
 Download Aplikasi Lafia Detector 
 https://drive.google.com/file/d/1XTaKibZQVaXQsfYLlI8x4MWIeA6F8Spf/view?usp=sharing
