@@ -24,7 +24,7 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
 
 The application can be downloaded from the following link:
 
-[Download Lafia Detector APK]([https://drive.google.com/file/d/1XTaKibZQVaXQsfYLlI8x4MWIeA6F8Spf/view?usp=sharing])
+[Download Lafia Detector APK](https://drive.google.com/file/d/1XTaKibZQVaXQsfYLlI8x4MWIeA6F8Spf/view?usp=sharing)
 
 ## License
 
@@ -45,5 +45,5 @@ Creator
 
 <p>Program Studi Teknik Industri Pertanian<br>Universitas Linggabuana PGRI Sukabumi</p>
 
-If you have any questions or suggestions, feel free to open an issue or contact me at [tip@unlip.ac.id](mailto:your-email@tip@unlip.ac.id).
+If you have any questions or suggestions, feel free to open an issue or contact us at [tip@unlip.ac.id](mailto:your-email@tip@unlip.ac.id).
 
