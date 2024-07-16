@@ -39,9 +39,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Creator
-1. Tresna Ayu Safitri
-2. Firmansyah
-3. Muhammad Ijlal Senja Pratama
+1. Tresna Ayu Safitri (NIM 206230007)
+2. Firmansyah (NIM 206230004)
+3. Muhammad Ijlal Senja Pratama (NIM 206230010)
 
 <p>Program Studi Teknik Industri Pertanian<br>Universitas Linggabuana PGRI Sukabumi</p>
 
