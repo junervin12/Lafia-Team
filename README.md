@@ -1,4 +1,4 @@
-## Lafia Project
+# Lafia Project
 
 
 <p>
@@ -6,7 +6,7 @@
     <img src="home.jpg" >
 </p>
 
-# Lafia Detector
+## Lafia Detector
 
 This is an Android application that detects the freshness of tomatoes using a deep learning model. The model is based on transfer learning with YOLOv8 and has been trained on a custom dataset from Roboflow.
 
