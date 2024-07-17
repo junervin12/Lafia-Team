@@ -3,12 +3,18 @@
 
 <p>
     <img src="home.jpg" >
-    <img src="home.jpg" >
+    <img src="test.jpg" >
 </p>
 
 # Lafia Detector
 
-This is an Android application that detects the freshness of tomatoes using a deep learning model. The model is based on transfer learning with YOLOv8 and has been trained on a custom dataset from Roboflow.
+This is an Android application that detects the freshness of tomatoes using a deep learning model and computer vision. The model is based on transfer learning with YOLOv8 and has been trained on a custom dataset from Roboflow.
+
+## Download
+
+The application can be downloaded from the following link:
+
+[Download Lafia Detector APK](https://drive.google.com/file/d/1XTaKibZQVaXQsfYLlI8x4MWIeA6F8Spf/view?usp=sharing)
 
 ## Features
 
@@ -16,15 +22,15 @@ This is an Android application that detects the freshness of tomatoes using a de
 - Provides a freshness score to help users make informed decisions.
 - Easy-to-use interface with clear instructions.
 
+## Dataset
+
+The dataset was obtained from Roboflow and consists of 3851 images with 24 classes. The dataset can be accessed from the following link:
+
+[Roboflow Dataset](https://universe.roboflow.com/hanoi-university-of-industry-xfhdu/tomato-frsnq)
+
 ## Model Training
 
 The model was trained using transfer learning with YOLOv8 on a custom dataset from Roboflow. Once trained, the custom YOLOv8 model was converted to TensorFlow Lite for deployment on Android.
-
-## Download
-
-The application can be downloaded from the following link:
-
-[Download Lafia Detector APK](https://drive.google.com/file/d/1XTaKibZQVaXQsfYLlI8x4MWIeA6F8Spf/view?usp=sharing)
 
 ## License
 
