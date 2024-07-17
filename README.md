@@ -24,7 +24,7 @@ The application can be downloaded from the following link:
 
 ## Dataset
 
-The dataset was obtained from Roboflow and consists of 3851 images with 24 classes. The dataset can be accessed from the following link:
+The dataset was obtained from Roboflow and consists of 2452 images with 2 classes. The dataset can be accessed from the following link:
 
 [Roboflow Dataset](https://universe.roboflow.com/hanoi-university-of-industry-xfhdu/tomato-frsnq)
 
