@@ -18,7 +18,7 @@ The application can be downloaded from the following link:
 
 ## Features
 
-- Detects the freshness of tomatoes in real-time using the camera.
+- Detects the defects of tomatoes in real-time using the camera.
 - Provides a freshness score to help users make informed decisions.
 - Easy-to-use interface with clear instructions.
 
@@ -38,7 +38,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- [YOLOv8](https://github.com/ultralytics/yolov8) for the object detection framework.
+- [YOLOv8](https://github.com/ultralytics/ultralytics) for the object detection framework.
 - [Roboflow](https://roboflow.com/) for the custom dataset and tools.
 - The contributors who made this project possible.
 
