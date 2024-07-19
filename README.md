@@ -19,7 +19,7 @@ The application can be downloaded from the following link:
 ## Features
 
 - Detects the defects of tomatoes in real-time using the camera.
-- Provides a defects score to help users make informed decisions.
+- Provides a defect score to help users make informed decisions.
 - Easy-to-use interface with clear instructions.
 
 ## Dataset
