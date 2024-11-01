@@ -49,6 +49,8 @@ Creator
 2. Firmansyah (NIM 206230004)
 3. Muhammad Ijlal Senja Pratama (NIM 206230010)
 
+Under Under the supervision of [Junervin](https://github.com/junervin12)
+
 <p>Program Studi Teknik Industri Pertanian<br>Universitas Linggabuana PGRI Sukabumi</p>
 
 If you have any questions or suggestions, feel free to open an issue or contact us at [tip@unlip.ac.id](mailto:your-email@tip@unlip.ac.id).
